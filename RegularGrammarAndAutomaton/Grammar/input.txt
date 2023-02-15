@@ -1,0 +1,16 @@
+5
+S A B C D
+3
+a b c 
+S
+10
+S->aA
+S->bB
+A->aS
+A->cC
+B->bS
+B->cC
+C->cC
+C->cD
+D->aD
+D->a
